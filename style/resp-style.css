@@ -1,0 +1,7 @@
+@media only screen and(max-width:1104px){
+    .navbar{
+        display:flex;
+        flex-direction:column;
+        height: 20%;
+    }
+}
